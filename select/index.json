@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "九尾",
+  "base_artist": "9Lana",
+  "createdAt": "2025-12-11T01:52:56.210411Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "組曲「九尾」～殺生石",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/01_組曲「九尾」~殺生石_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "組曲「九尾」～玉藻前",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/02_組曲「九尾」~玉藻前_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "組曲「九尾」～照魔鏡",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/03_組曲「九尾」~照魔鏡_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "組曲「九尾」〜玉藻前",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/04_組曲「九尾」〜玉藻前_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "組曲「九尾」〜照魔鏡",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/05_組曲「九尾」〜照魔鏡_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "組曲「九尾」〜殺生石",
+      "artist": "陰陽座",
+      "has_synced": true,
+      "path": "select/06_組曲「九尾」〜殺生石_陰陽座.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "九尾",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/07_九尾_9Lana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "九尾",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_九尾_9Lana.txt"
+    }
+  ]
+}
